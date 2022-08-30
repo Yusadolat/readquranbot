@@ -55,4 +55,6 @@ function tweetEvent(tweet) {
 };
 
 
-app.listen(PORT, () => console.log(`Your Quran Bot app listening on port ${PORT}!`))
+app.listen(PORT, () =>
+  console.log(`Your Quran Bot app is now deployed on Koyeb ${PORT}!`)
+);
