@@ -1,0 +1,17 @@
+{
+  "name": "read_quran",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yusadolat",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "twit": "^2.2.11"
+  }
+}
